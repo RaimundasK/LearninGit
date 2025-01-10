@@ -1,3 +1,5 @@
+## Script to generate SAS token for Azure Storage account
+
 using namespace System.Net
 using namespace Microsoft.WindowsAzure.Storage.Blob
 
